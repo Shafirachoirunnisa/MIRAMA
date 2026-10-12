@@ -32,7 +32,7 @@ Website statis multi-halaman menggunakan HTML, CSS, dan JavaScript murni. Tidak 
 Alternatif: dengan Vercel CLI terpasang, jalankan `vercel` dari folder proyek, ikuti prompt, lalu `vercel --prod` untuk production.
 
 ## Hal yang WAJIB diperbarui sebelum go-live
-1. Buka `assets/js/app.js`, isi konstanta `WHATSAPP_NUMBER` dengan nomor WhatsApp bisnis dalam format internasional tanpa tanda `+`, spasi, atau tanda hubung (contoh format: `62812xxxxxxxx`).
+1. Alamat toko: Ruko Revo Mall No. 48–49, Jl. Jend. Ahmad Yani, Pekayon Jaya, Bekasi Selatan 17148 · Telepon 021-82432289 (sudah diterapkan). Buka `assets/js/app.js`, isi konstanta `WHATSAPP_NUMBER` dengan nomor WhatsApp bisnis dalam format internasional tanpa tanda `+`, spasi, atau tanda hubung (contoh format: `62812xxxxxxxx`).
 2. Validasi alamat, jam buka, akun media sosial, dan informasi kontak resmi toko.
 3. Ubah daftar produk di array `products` pada `assets/js/app.js` agar nama, foto, varian, harga, satuan, dan stok sesuai kondisi toko.
 4. Kartu promo hanya konsep contoh—sesuaikan dengan promo resmi dan masa berlakunya.
